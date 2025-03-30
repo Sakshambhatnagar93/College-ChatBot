@@ -1,0 +1,4 @@
+pickle
+pandas
+scikit-learn
+streamlit
